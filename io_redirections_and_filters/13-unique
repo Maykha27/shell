@@ -1,2 +1,2 @@
 #!/bin/bash
-trier | uniq -u
+trier | unique -u
