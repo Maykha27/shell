@@ -1,5 +1,6 @@
+#!/usr/bin/env basi
 for (( c=1; c<=10; c++ ))
 do
-	    echo " Best School"
-    done#!/usr/bin/env bash
+echo " Best School"
+done
 
