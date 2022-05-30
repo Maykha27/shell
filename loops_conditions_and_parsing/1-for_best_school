@@ -1,4 +1,5 @@
 #!/usr/bin/env bash 
+#pour sortie les dix 
 for (( c=1; c<=10; c++ ))
 do
 echo  "Best School $c"
