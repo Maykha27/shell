@@ -2,6 +2,6 @@
 #pour sortie les dix 
 for (( c=1; c<=10; c++ ))
 do
-echo  "Best School $c"
+echo  "Best School "
 done
 
