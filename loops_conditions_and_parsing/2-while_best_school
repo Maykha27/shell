@@ -3,6 +3,6 @@
 COUNTER=0
 while [ $COUNTER -lt 10 ]
 do
-echo "Best School"
- COUNTER=COUNTER+1
+ echo "Best School"
+exp  COUNTER=COUNTER+1
 done
