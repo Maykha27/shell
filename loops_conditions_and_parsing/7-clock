@@ -11,5 +11,5 @@ do
 					        echo $MINUTES
 							let MINUTES+=1
 							    done
-							   Hour=$((HOURS++))
+							   ((HOURS++))
 							done
