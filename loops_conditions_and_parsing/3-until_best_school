@@ -3,6 +3,6 @@
 COUNTER=1
 until [ $COUNTER -le 11 ]
 do
-	    echo "Best School"
-	    COUNTER=$((COUNTER+1))
-	done
+echo "Best School"
+COUNTER=$((COUNTER+1))
+done
