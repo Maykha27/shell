@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #Write a Bash script that displays Best School 10 times.
-COUNTER=10
-until [ $COUNTER -lt 1 ]
+COUNTER=1
+until [ $COUNTER -lt 11 ]
 do
 	    echo "Best School"
 	    COUNTER=$((COUNTER+1))
