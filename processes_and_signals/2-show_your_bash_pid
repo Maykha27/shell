@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Affiche les processus en cours d'exécution contenant le mot bash, dans un format orienté utilisateur.
+# shellcheck désactiver=SC2009
+
+ps-faux | grep " bash "
